@@ -1,28 +1,11 @@
-== README
+This is an exercise from RailsBridge I completed and deployed with Heroku to https://tranquil-citadel-2006.herokuapp.com/topics/new. The exercise has clear instructions to cover creating, modifying, and deploying the app.  
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Thanks RailsBridge for the exercise!  
 
-Things you may want to cover:
+Here are the instructions:  http://docs.railsbridge.org/intro-to-rails/
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Happy Coding,
+Cora
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+
